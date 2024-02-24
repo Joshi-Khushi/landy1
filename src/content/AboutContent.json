@@ -1,15 +1,15 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Efficient Collaboration Tools for Construction Professionals",
+  "text": "Streamline your file management process with real-time document annotation and version comparison.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Why Construct?",
+      "content": "Building dreams from the ground up  - our passion, your project.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Construct now.",
+      "content": "Where innovation meets concrete  - your trusted construction partner.",
       "icon": "notes.svg"
     }
   ]

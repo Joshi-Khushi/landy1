@@ -127,7 +127,7 @@ const Footer = ({ t }: { t: TFunction }) => {
                 />
               </LogoContainer>
             </NavLink>
-            <FooterContainer>
+            {/* <FooterContainer>
               <SocialLink
                 href="https://github.com/Adrinlol/create-react-app-adrinlol"
                 src="github.svg"
@@ -156,7 +156,7 @@ const Footer = ({ t }: { t: TFunction }) => {
                   alt="Buy Me a Coffee at ko-fi.com"
                 />
               </a>
-            </FooterContainer>
+            </FooterContainer> */}
           </Row>
         </Container>
       </Extra>
